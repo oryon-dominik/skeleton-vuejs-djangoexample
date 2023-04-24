@@ -1,0 +1,17 @@
+# -- GIT is ignoring --
+
+# Git itself
+.git/
+
+# Logs
+**/logs/*.log
+
+# Editor settings
+.vscode/
+
+# ===================
+## Node
+# ===================
+**/node_modules/
+dist/
+.env.production
